@@ -1,2 +1,2 @@
 # Passenger-Counter
-Simple passenger counter app
+Simple passenger counter app using javascript,html &css
